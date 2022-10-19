@@ -1,0 +1,3259 @@
+fileFormatVersion: 2
+guid: 57054ffe7a0d1934f9be20d4d3941f29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -444934094841488892
+    second: character_tribe_spritesheet_2x_0
+  - first:
+      213: -2054022891766510111
+    second: character_tribe_spritesheet_2x_1
+  - first:
+      213: 5348065722819262716
+    second: character_tribe_spritesheet_2x_2
+  - first:
+      213: 2443720073385142728
+    second: character_tribe_spritesheet_2x_3
+  - first:
+      213: 7255086203510338352
+    second: character_tribe_spritesheet_2x_4
+  - first:
+      213: 850071061219318182
+    second: character_tribe_spritesheet_2x_5
+  - first:
+      213: 7547927749535376519
+    second: character_tribe_spritesheet_2x_6
+  - first:
+      213: -174271887367571843
+    second: character_tribe_spritesheet_2x_7
+  - first:
+      213: -1933688251336810024
+    second: character_tribe_spritesheet_2x_8
+  - first:
+      213: -8204300657769367487
+    second: character_tribe_spritesheet_2x_9
+  - first:
+      213: 3593199302518825949
+    second: character_tribe_spritesheet_2x_10
+  - first:
+      213: -7774891324210352946
+    second: character_tribe_spritesheet_2x_11
+  - first:
+      213: 6112222277022771855
+    second: character_tribe_spritesheet_2x_12
+  - first:
+      213: -8596603839193711529
+    second: character_tribe_spritesheet_2x_13
+  - first:
+      213: -300616645668890015
+    second: character_tribe_spritesheet_2x_14
+  - first:
+      213: -6463187984972310575
+    second: character_tribe_spritesheet_2x_15
+  - first:
+      213: 2311508982459281090
+    second: character_tribe_spritesheet_2x_16
+  - first:
+      213: 1486559318575584410
+    second: character_tribe_spritesheet_2x_17
+  - first:
+      213: -3043937727577538322
+    second: character_tribe_spritesheet_2x_18
+  - first:
+      213: -8902728498430612890
+    second: character_tribe_spritesheet_2x_19
+  - first:
+      213: -8878687771983442947
+    second: character_tribe_spritesheet_2x_20
+  - first:
+      213: -5835785463216771584
+    second: character_tribe_spritesheet_2x_21
+  - first:
+      213: -8565848425883413361
+    second: character_tribe_spritesheet_2x_22
+  - first:
+      213: 6816507199558931993
+    second: character_tribe_spritesheet_2x_23
+  - first:
+      213: 516741094548212879
+    second: character_tribe_spritesheet_2x_24
+  - first:
+      213: -6505855029170173636
+    second: character_tribe_spritesheet_2x_25
+  - first:
+      213: -8522996362586031824
+    second: character_tribe_spritesheet_2x_26
+  - first:
+      213: -4861728484900763397
+    second: character_tribe_spritesheet_2x_27
+  - first:
+      213: 925599297115946085
+    second: character_tribe_spritesheet_2x_28
+  - first:
+      213: 5942628693843984869
+    second: character_tribe_spritesheet_2x_29
+  - first:
+      213: -2597371211650634880
+    second: character_tribe_spritesheet_2x_30
+  - first:
+      213: -1201310810829418907
+    second: character_tribe_spritesheet_2x_31
+  - first:
+      213: -3419331380957446365
+    second: character_tribe_spritesheet_2x_32
+  - first:
+      213: -3732923681877353509
+    second: character_tribe_spritesheet_2x_33
+  - first:
+      213: 2246952504780867992
+    second: character_tribe_spritesheet_2x_34
+  - first:
+      213: 5922463779017042932
+    second: character_tribe_spritesheet_2x_35
+  - first:
+      213: 4217584174200482819
+    second: character_tribe_spritesheet_2x_36
+  - first:
+      213: -2469188714976069539
+    second: character_tribe_spritesheet_2x_37
+  - first:
+      213: 8399186804500935757
+    second: character_tribe_spritesheet_2x_38
+  - first:
+      213: -6922857404197602265
+    second: character_tribe_spritesheet_2x_39
+  - first:
+      213: -1565494336379815712
+    second: character_tribe_spritesheet_2x_40
+  - first:
+      213: -1308749205001883346
+    second: character_tribe_spritesheet_2x_41
+  - first:
+      213: -96699410825982957
+    second: character_tribe_spritesheet_2x_42
+  - first:
+      213: 7231951676718029689
+    second: character_tribe_spritesheet_2x_43
+  - first:
+      213: -1581047931663744724
+    second: character_tribe_spritesheet_2x_44
+  - first:
+      213: -4812757637026930038
+    second: character_tribe_spritesheet_2x_45
+  - first:
+      213: -4727666034561195970
+    second: character_tribe_spritesheet_2x_46
+  - first:
+      213: 2438450604171658933
+    second: character_tribe_spritesheet_2x_47
+  - first:
+      213: -557882782965999350
+    second: character_tribe_spritesheet_2x_48
+  - first:
+      213: 2196020581684588276
+    second: character_tribe_spritesheet_2x_49
+  - first:
+      213: 406985800582282199
+    second: character_tribe_spritesheet_2x_50
+  - first:
+      213: 1563265194616566721
+    second: character_tribe_spritesheet_2x_51
+  - first:
+      213: -3105018247067994216
+    second: character_tribe_spritesheet_2x_52
+  - first:
+      213: -1381301007807379751
+    second: character_tribe_spritesheet_2x_53
+  - first:
+      213: 1747056524975679081
+    second: character_tribe_spritesheet_2x_54
+  - first:
+      213: 8813660820050236223
+    second: character_tribe_spritesheet_2x_55
+  - first:
+      213: -5041655708946294869
+    second: character_tribe_spritesheet_2x_56
+  - first:
+      213: 2583695934883821195
+    second: character_tribe_spritesheet_2x_57
+  - first:
+      213: -7547839454759009351
+    second: character_tribe_spritesheet_2x_58
+  - first:
+      213: 3365492247930094343
+    second: character_tribe_spritesheet_2x_59
+  - first:
+      213: 6629411030166839666
+    second: character_tribe_spritesheet_2x_60
+  - first:
+      213: 6100141095861175237
+    second: character_tribe_spritesheet_2x_61
+  - first:
+      213: -2722836213589230912
+    second: character_tribe_spritesheet_2x_62
+  - first:
+      213: -189711389185913700
+    second: character_tribe_spritesheet_2x_63
+  - first:
+      213: -2299456878050751085
+    second: character_tribe_spritesheet_2x_64
+  - first:
+      213: 1292155956772361036
+    second: character_tribe_spritesheet_2x_65
+  - first:
+      213: -1796273628617185762
+    second: character_tribe_spritesheet_2x_66
+  - first:
+      213: 2653632906669126306
+    second: character_tribe_spritesheet_2x_67
+  - first:
+      213: 3359336766011680735
+    second: character_tribe_spritesheet_2x_68
+  - first:
+      213: -5861034771898429924
+    second: character_tribe_spritesheet_2x_69
+  - first:
+      213: 3571581330685999871
+    second: character_tribe_spritesheet_2x_70
+  - first:
+      213: 4419076850679287884
+    second: character_tribe_spritesheet_2x_71
+  - first:
+      213: -1087203181223488337
+    second: character_tribe_spritesheet_2x_72
+  - first:
+      213: 3453447516624470376
+    second: character_tribe_spritesheet_2x_73
+  - first:
+      213: -6463165288780145940
+    second: character_tribe_spritesheet_2x_74
+  - first:
+      213: 1791067357370986021
+    second: character_tribe_spritesheet_2x_75
+  - first:
+      213: -8492180497190440631
+    second: character_tribe_spritesheet_2x_76
+  - first:
+      213: -9145441219530254707
+    second: character_tribe_spritesheet_2x_77
+  - first:
+      213: 6211458560620282094
+    second: character_tribe_spritesheet_2x_78
+  - first:
+      213: 5250820749808494410
+    second: character_tribe_spritesheet_2x_79
+  - first:
+      213: -1300073637988717267
+    second: character_tribe_spritesheet_2x_80
+  - first:
+      213: 523326860805324449
+    second: character_tribe_spritesheet_2x_81
+  - first:
+      213: 8577636672780783638
+    second: character_tribe_spritesheet_2x_82
+  - first:
+      213: 5088732327819355579
+    second: character_tribe_spritesheet_2x_83
+  - first:
+      213: -4655031851213938453
+    second: character_tribe_spritesheet_2x_84
+  - first:
+      213: -4288759927927192225
+    second: character_tribe_spritesheet_2x_85
+  - first:
+      213: -8999549798295383877
+    second: character_tribe_spritesheet_2x_86
+  - first:
+      213: -8538240492123225762
+    second: character_tribe_spritesheet_2x_87
+  - first:
+      213: -5272550509151913528
+    second: character_tribe_spritesheet_2x_88
+  - first:
+      213: 5101328880622609711
+    second: character_tribe_spritesheet_2x_89
+  - first:
+      213: 7631627033829469237
+    second: character_tribe_spritesheet_2x_90
+  - first:
+      213: 875119930069587536
+    second: character_tribe_spritesheet_2x_91
+  - first:
+      213: -8980881000795529749
+    second: character_tribe_spritesheet_2x_92
+  - first:
+      213: 7814674455609961524
+    second: character_tribe_spritesheet_2x_93
+  - first:
+      213: -5449718970632863363
+    second: character_tribe_spritesheet_2x_94
+  - first:
+      213: -6953281485624204222
+    second: character_tribe_spritesheet_2x_95
+  - first:
+      213: -4524788585223230885
+    second: character_tribe_spritesheet_2x_96
+  - first:
+      213: 6259037603345532071
+    second: character_tribe_spritesheet_2x_97
+  - first:
+      213: 4573821591465514833
+    second: character_tribe_spritesheet_2x_98
+  - first:
+      213: 8299307539685912299
+    second: character_tribe_spritesheet_2x_99
+  - first:
+      213: -8847371580402515595
+    second: character_tribe_spritesheet_2x_100
+  - first:
+      213: 1118943672136557201
+    second: character_tribe_spritesheet_2x_101
+  - first:
+      213: -970374783658851566
+    second: character_tribe_spritesheet_2x_102
+  - first:
+      213: 5619459033479593896
+    second: character_tribe_spritesheet_2x_103
+  - first:
+      213: 1092009740366131180
+    second: character_tribe_spritesheet_2x_104
+  - first:
+      213: -1715386135428386323
+    second: character_tribe_spritesheet_2x_105
+  - first:
+      213: 6171457840632008614
+    second: character_tribe_spritesheet_2x_106
+  - first:
+      213: 6387890966828057358
+    second: character_tribe_spritesheet_2x_107
+  - first:
+      213: -769057158741998512
+    second: character_tribe_spritesheet_2x_108
+  - first:
+      213: -7099482626116079779
+    second: character_tribe_spritesheet_2x_109
+  - first:
+      213: -1309905609895442158
+    second: character_tribe_spritesheet_2x_110
+  - first:
+      213: 7880435100187012153
+    second: character_tribe_spritesheet_2x_111
+  - first:
+      213: -4220103355858127330
+    second: character_tribe_spritesheet_2x_112
+  - first:
+      213: -7042247073064314509
+    second: character_tribe_spritesheet_2x_113
+  - first:
+      213: -5450929474513727426
+    second: character_tribe_spritesheet_2x_114
+  - first:
+      213: -2814397776296300203
+    second: character_tribe_spritesheet_2x_115
+  - first:
+      213: 4481190418454298066
+    second: character_tribe_spritesheet_2x_116
+  - first:
+      213: -5932960352202319106
+    second: character_tribe_spritesheet_2x_117
+  - first:
+      213: -5417007178896880979
+    second: character_tribe_spritesheet_2x_118
+  - first:
+      213: 1682306336905911761
+    second: character_tribe_spritesheet_2x_119
+  - first:
+      213: -7144148092736467193
+    second: character_tribe_spritesheet_2x_120
+  - first:
+      213: -2005356655919623384
+    second: character_tribe_spritesheet_2x_121
+  - first:
+      213: -1612796397265255923
+    second: character_tribe_spritesheet_2x_122
+  - first:
+      213: 8783148238076060112
+    second: character_tribe_spritesheet_2x_123
+  - first:
+      213: 484622626974845715
+    second: character_tribe_spritesheet_2x_124
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1034
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a53805cc643d9f0800000000000000
+      internalID: -444934094841488892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1034
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed8cb70015ae73e0800000000000000
+      internalID: -2054022891766510111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1034
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b51c8075283a40800000000000000
+      internalID: 5348065722819262716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1034
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ec989576d9e120800000000000000
+      internalID: 2443720073385142728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1034
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0333217867e3fa460800000000000000
+      internalID: 7255086203510338352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1034
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a911d5502f0ccb00800000000000000
+      internalID: 850071061219318182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1034
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784ae5d2c40afb860800000000000000
+      internalID: 7547927749535376519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 992
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d767e1b44acd49df0800000000000000
+      internalID: -174271887367571843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 992
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d129b0d7c82a25e0800000000000000
+      internalID: -1933688251336810024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 992
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148372f1508742e80800000000000000
+      internalID: -8204300657769367487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 928
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3e0d16abb9dd130800000000000000
+      internalID: 3593199302518825949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 928
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccec25a8890a1490800000000000000
+      internalID: -7774891324210352946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 896
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aeb2ae6c9f2d450800000000000000
+      internalID: 6112222277022771855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 896
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c7912ea5ab2b880800000000000000
+      internalID: -8596603839193711529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 896
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a1655e0cef3dbf0800000000000000
+      internalID: -300616645668890015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 832
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7172765c42e46a0800000000000000
+      internalID: -6463187984972310575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 834
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce2c923c21241020800000000000000
+      internalID: 2311508982459281090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 834
+        width: 32
+        height: 62
+      alignment: 9
+      pivot: {x: 0.4693613, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a949e39f2d151a410800000000000000
+      internalID: 1486559318575584410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 832
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c455a3c2c1c5d0800000000000000
+      internalID: -3043937727577538322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 832
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aeb4f6997237480800000000000000
+      internalID: -8902728498430612890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_20
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 832
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb825f338098c480800000000000000
+      internalID: -8878687771983442947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 834
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e639f5a00230fa0800000000000000
+      internalID: -5835785463216771584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 834
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84516f8d3eff1980800000000000000
+      internalID: -8565848425883413361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 832
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9165a9ebe29199e50800000000000000
+      internalID: 6816507199558931993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 832
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8465a945db2700800000000000000
+      internalID: 516741094548212879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c398f1a025f86b5a0800000000000000
+      internalID: -6505855029170173636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 800
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039fc1a07fb38b980800000000000000
+      internalID: -8522996362586031824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 800
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8871793bba78cb0800000000000000
+      internalID: -4861728484900763397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 800
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c72fc18a368dc00800000000000000
+      internalID: 925599297115946085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 738
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e14d98cf45787250800000000000000
+      internalID: 5942628693843984869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 778
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08becbbf4a844fbd0800000000000000
+      internalID: -2597371211650634880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_31
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 778
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e0dafae26145fe0800000000000000
+      internalID: -1201310810829418907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_32
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 778
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f7fa4b9381c80d0800000000000000
+      internalID: -3419331380957446365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_33
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 778
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb9e0070bdf13cc0800000000000000
+      internalID: -3732923681877353509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 778
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89943a2f567ce2f10800000000000000
+      internalID: 2246952504780867992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_35
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 778
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbad6fad61d03250800000000000000
+      internalID: 5922463779017042932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_36
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 778
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c6781f57ed78a30800000000000000
+      internalID: 4217584174200482819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58b27032fdabbdd0800000000000000
+      internalID: -2469188714976069539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_38
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 704
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d443d6cd5e7ef8470800000000000000
+      internalID: 8399186804500935757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 704
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c7e18aed11def90800000000000000
+      internalID: -6922857404197602265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 704
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8f136023f364ae0800000000000000
+      internalID: -1565494336379815712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_41
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 704
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21b9c7388366dde0800000000000000
+      internalID: -1308749205001883346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_42
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 704
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c4abfe56478aef0800000000000000
+      internalID: -96699410825982957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_43
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 639
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b9193cbbd0d5460800000000000000
+      internalID: 7231951676718029689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 640
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21015c684dfe0ae0800000000000000
+      internalID: -1581047931663744724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 640
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8226fe9d66a53db0800000000000000
+      internalID: -4812757637026930038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 640
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30ec413ac4f36eb0800000000000000
+      internalID: -4727666034561195970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_47
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 640
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b60dffa7ed17d120800000000000000
+      internalID: 2438450604171658933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 640
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09510f80900248f0800000000000000
+      internalID: -557882782965999350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fea1c28515d97e10800000000000000
+      internalID: 2196020581684588276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_50
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 608
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb558ed67e5a500800000000000000
+      internalID: 406985800582282199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_51
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 544
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c33ad67965d1b510800000000000000
+      internalID: 1563265194616566721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_52
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 544
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897f76afa52c8e4d0800000000000000
+      internalID: -3105018247067994216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 544
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d680c54d02a4dce0800000000000000
+      internalID: -1381301007807379751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_54
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 544
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96624b537aace3810800000000000000
+      internalID: 1747056524975679081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_55
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 544
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f335fdda1d9605a70800000000000000
+      internalID: 8813660820050236223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_56
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 544
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba79f6438d0780ab0800000000000000
+      internalID: -5041655708946294869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_57
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 544
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86fe5683c12bd320800000000000000
+      internalID: 2583695934883821195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3496d8100b04790800000000000000
+      internalID: -7547839454759009351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_59
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 512
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703443c4e51a4be20800000000000000
+      internalID: 3365492247930094343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 512
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271a6233536600c50800000000000000
+      internalID: 6629411030166839666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 512
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3419ab10e08a450800000000000000
+      internalID: 6100141095861175237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab173d3ea863ad0800000000000000
+      internalID: -2722836213589230912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 448
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c4ab52f720e5df0800000000000000
+      internalID: -189711389185913700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 448
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc4770720b610e0800000000000000
+      internalID: -2299456878050751085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_65
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 448
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4352dd1ff8aee110800000000000000
+      internalID: 1292155956772361036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_66
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 448
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16eeded6aa5217e0800000000000000
+      internalID: -1796273628617185762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_67
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 448
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2fc4ea11993d420800000000000000
+      internalID: 2653632906669126306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7290b7df2ce9e20800000000000000
+      internalID: 3359336766011680735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 416
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e08c49deb69aea0800000000000000
+      internalID: -5861034771898429924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 416
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffab4f51c4ec09130800000000000000
+      internalID: 3571581330685999871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_71
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 416
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4014ef7bf6b35d30800000000000000
+      internalID: 4419076850679287884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_72
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 394
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4df78877a79e0f0800000000000000
+      internalID: -1087203181223488337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_73
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 394
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8614bde183c1def20800000000000000
+      internalID: 3453447516624470376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_74
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 394
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceadf95c9693e46a0800000000000000
+      internalID: -6463165288780145940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_75
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 394
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e25e4a5462bd810800000000000000
+      internalID: 1791067357370986021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_76
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 394
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b670d4d6b52a80800000000000000
+      internalID: -8492180497190440631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_77
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 394
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861fab5aadd41180800000000000000
+      internalID: -9145441219530254707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_78
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 394
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c4d2b6a8833650800000000000000
+      internalID: 6211458560620282094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_79
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 352
+        width: 64
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e593e6a9aed840800000000000000
+      internalID: 5250820749808494410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d25d11ae535fde0800000000000000
+      internalID: -1300073637988717267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 288
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeb8b7d10b334700800000000000000
+      internalID: 523326860805324449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_82
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 288
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610567d8b13e90770800000000000000
+      internalID: 8577636672780783638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_83
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 288
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb528b4471fce9640800000000000000
+      internalID: 5088732327819355579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0a34ad131066fb0800000000000000
+      internalID: -4655031851213938453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5548f081934b74c0800000000000000
+      internalID: -4288759927927192225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb05a2ed32d2b1380800000000000000
+      internalID: -8999549798295383877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_87
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51832c8283128980800000000000000
+      internalID: -8538240492123225762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_88
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9f1b14f3324d6b0800000000000000
+      internalID: -5272550509151913528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25a3f3c69f8bc640800000000000000
+      internalID: 5101328880622609711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c6ca96a5cf8e960800000000000000
+      internalID: 7631627033829469237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_91
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05699a790fc052c00800000000000000
+      internalID: 875119930069587536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed178100508d5380800000000000000
+      internalID: -8980881000795529749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_93
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c63f1730d437c60800000000000000
+      internalID: 7814674455609961524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_94
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 170
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7188b55875be54b0800000000000000
+      internalID: -5449718970632863363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_95
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 170
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a112345bf08f90800000000000000
+      internalID: -6953281485624204222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_96
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 170
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ae60e41c8b431c0800000000000000
+      internalID: -4524788585223230885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_97
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 170
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a40937d9819cd650800000000000000
+      internalID: 6259037603345532071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_98
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 170
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1575059118a797f30800000000000000
+      internalID: 4573821591465514833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee23b85c301d2370800000000000000
+      internalID: 8299307539685912299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_100
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c83a4c62d73580800000000000000
+      internalID: -8847371580402515595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_101
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ee556759478f00800000000000000
+      internalID: 1118943672136557201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_102
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 96
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213840986498882f0800000000000000
+      internalID: -970374783658851566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_103
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af3960c7345cfd40800000000000000
+      internalID: 5619459033479593896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_104
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 8
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef2ac9b219972f00800000000000000
+      internalID: 1092009740366131180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_105
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 8
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de13929f569b138e0800000000000000
+      internalID: -1715386135428386323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 8
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af8b21553c65a550800000000000000
+      internalID: 6171457840632008614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_107
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 8
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0386b56df856a850800000000000000
+      internalID: 6387890966828057358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_108
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 8
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544639b692c355f0800000000000000
+      internalID: -769057158741998512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_109
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f2b4d8a22997d90800000000000000
+      internalID: -7099482626116079779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_110
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21904e8b9c742dde0800000000000000
+      internalID: -1309905609895442158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_111
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 8
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93caa26a8fdec5d60800000000000000
+      internalID: 7880435100187012153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_112
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 8
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1674ae5b5e2f65c0800000000000000
+      internalID: -4220103355858127330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_113
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37997753999e44e90800000000000000
+      internalID: -7042247073064314509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_114
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 8
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3017efe5886a54b0800000000000000
+      internalID: -5450929474513727426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_115
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551b53f322041f8d0800000000000000
+      internalID: -2814397776296300203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_116
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 8
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3ad671f2603e30800000000000000
+      internalID: 4481190418454298066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_117
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 8
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa118c6ef3e9ada0800000000000000
+      internalID: -5932960352202319106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_118
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 8
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa4c1cdbace2d4b0800000000000000
+      internalID: -5417007178896880979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_119
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 8
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd5aae33b0c85710800000000000000
+      internalID: 1682306336905911761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_120
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 8
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f88a53923eadc90800000000000000
+      internalID: -7144148092736467193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_121
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 8
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82312fb0fba8b24e0800000000000000
+      internalID: -2005356655919623384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_122
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 8
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0289fdb8323e99e0800000000000000
+      internalID: -1612796397265255923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_123
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 8
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12f1499c204e970800000000000000
+      internalID: 8783148238076060112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character_tribe_spritesheet_2x_124
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 815
+        width: 354
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bc3fa26b9b9b600800000000000000
+      internalID: 484622626974845715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      character_tribe_spritesheet_2x_59: 3365492247930094343
+      character_tribe_spritesheet_2x_113: -7042247073064314509
+      character_tribe_spritesheet_2x_54: 1747056524975679081
+      character_tribe_spritesheet_2x_41: -1308749205001883346
+      character_tribe_spritesheet_2x_49: 2196020581684588276
+      character_tribe_spritesheet_2x_92: -8980881000795529749
+      character_tribe_spritesheet_2x_6: 7547927749535376519
+      character_tribe_spritesheet_2x_13: -8596603839193711529
+      character_tribe_spritesheet_2x_101: 1118943672136557201
+      character_tribe_spritesheet_2x_84: -4655031851213938453
+      character_tribe_spritesheet_2x_95: -6953281485624204222
+      character_tribe_spritesheet_2x_78: 6211458560620282094
+      character_tribe_spritesheet_2x_12: 6112222277022771855
+      character_tribe_spritesheet_2x_87: -8538240492123225762
+      character_tribe_spritesheet_2x_19: -8902728498430612890
+      character_tribe_spritesheet_2x_63: -189711389185913700
+      character_tribe_spritesheet_2x_65: 1292155956772361036
+      character_tribe_spritesheet_2x_115: -2814397776296300203
+      character_tribe_spritesheet_2x_74: -6463165288780145940
+      character_tribe_spritesheet_2x_52: -3105018247067994216
+      character_tribe_spritesheet_2x_99: 8299307539685912299
+      character_tribe_spritesheet_2x_58: -7547839454759009351
+      character_tribe_spritesheet_2x_50: 406985800582282199
+      character_tribe_spritesheet_2x_106: 6171457840632008614
+      character_tribe_spritesheet_2x_33: -3732923681877353509
+      character_tribe_spritesheet_2x_69: -5861034771898429924
+      character_tribe_spritesheet_2x_93: 7814674455609961524
+      character_tribe_spritesheet_2x_45: -4812757637026930038
+      character_tribe_spritesheet_2x_56: -5041655708946294869
+      character_tribe_spritesheet_2x_70: 3571581330685999871
+      character_tribe_spritesheet_2x_77: -9145441219530254707
+      character_tribe_spritesheet_2x_124: 484622626974845715
+      character_tribe_spritesheet_2x_42: -96699410825982957
+      character_tribe_spritesheet_2x_25: -6505855029170173636
+      character_tribe_spritesheet_2x_62: -2722836213589230912
+      character_tribe_spritesheet_2x_97: 6259037603345532071
+      character_tribe_spritesheet_2x_91: 875119930069587536
+      character_tribe_spritesheet_2x_0: -444934094841488892
+      character_tribe_spritesheet_2x_23: 6816507199558931993
+      character_tribe_spritesheet_2x_109: -7099482626116079779
+      character_tribe_spritesheet_2x_38: 8399186804500935757
+      character_tribe_spritesheet_2x_96: -4524788585223230885
+      character_tribe_spritesheet_2x_32: -3419331380957446365
+      character_tribe_spritesheet_2x_102: -970374783658851566
+      character_tribe_spritesheet_2x_5: 850071061219318182
+      character_tribe_spritesheet_2x_8: -1933688251336810024
+      character_tribe_spritesheet_2x_29: 5942628693843984869
+      character_tribe_spritesheet_2x_80: -1300073637988717267
+      character_tribe_spritesheet_2x_85: -4288759927927192225
+      character_tribe_spritesheet_2x_3: 2443720073385142728
+      character_tribe_spritesheet_2x_119: 1682306336905911761
+      character_tribe_spritesheet_2x_105: -1715386135428386323
+      character_tribe_spritesheet_2x_81: 523326860805324449
+      character_tribe_spritesheet_2x_118: -5417007178896880979
+      character_tribe_spritesheet_2x_94: -5449718970632863363
+      character_tribe_spritesheet_2x_44: -1581047931663744724
+      character_tribe_spritesheet_2x_2: 5348065722819262716
+      character_tribe_spritesheet_2x_7: -174271887367571843
+      character_tribe_spritesheet_2x_34: 2246952504780867992
+      character_tribe_spritesheet_2x_60: 6629411030166839666
+      character_tribe_spritesheet_2x_89: 5101328880622609711
+      character_tribe_spritesheet_2x_112: -4220103355858127330
+      character_tribe_spritesheet_2x_27: -4861728484900763397
+      character_tribe_spritesheet_2x_71: 4419076850679287884
+      character_tribe_spritesheet_2x_24: 516741094548212879
+      character_tribe_spritesheet_2x_14: -300616645668890015
+      character_tribe_spritesheet_2x_30: -2597371211650634880
+      character_tribe_spritesheet_2x_90: 7631627033829469237
+      character_tribe_spritesheet_2x_26: -8522996362586031824
+      character_tribe_spritesheet_2x_100: -8847371580402515595
+      character_tribe_spritesheet_2x_1: -2054022891766510111
+      character_tribe_spritesheet_2x_40: -1565494336379815712
+      character_tribe_spritesheet_2x_55: 8813660820050236223
+      character_tribe_spritesheet_2x_9: -8204300657769367487
+      character_tribe_spritesheet_2x_43: 7231951676718029689
+      character_tribe_spritesheet_2x_110: -1309905609895442158
+      character_tribe_spritesheet_2x_57: 2583695934883821195
+      character_tribe_spritesheet_2x_111: 7880435100187012153
+      character_tribe_spritesheet_2x_120: -7144148092736467193
+      character_tribe_spritesheet_2x_107: 6387890966828057358
+      character_tribe_spritesheet_2x_122: -1612796397265255923
+      character_tribe_spritesheet_2x_104: 1092009740366131180
+      character_tribe_spritesheet_2x_88: -5272550509151913528
+      character_tribe_spritesheet_2x_28: 925599297115946085
+      character_tribe_spritesheet_2x_15: -6463187984972310575
+      character_tribe_spritesheet_2x_67: 2653632906669126306
+      character_tribe_spritesheet_2x_75: 1791067357370986021
+      character_tribe_spritesheet_2x_98: 4573821591465514833
+      character_tribe_spritesheet_2x_46: -4727666034561195970
+      character_tribe_spritesheet_2x_76: -8492180497190440631
+      character_tribe_spritesheet_2x_11: -7774891324210352946
+      character_tribe_spritesheet_2x_37: -2469188714976069539
+      character_tribe_spritesheet_2x_66: -1796273628617185762
+      character_tribe_spritesheet_2x_83: 5088732327819355579
+      character_tribe_spritesheet_2x_17: 1486559318575584410
+      character_tribe_spritesheet_2x_35: 5922463779017042932
+      character_tribe_spritesheet_2x_103: 5619459033479593896
+      character_tribe_spritesheet_2x_72: -1087203181223488337
+      character_tribe_spritesheet_2x_86: -8999549798295383877
+      character_tribe_spritesheet_2x_22: -8565848425883413361
+      character_tribe_spritesheet_2x_39: -6922857404197602265
+      character_tribe_spritesheet_2x_61: 6100141095861175237
+      character_tribe_spritesheet_2x_4: 7255086203510338352
+      character_tribe_spritesheet_2x_10: 3593199302518825949
+      character_tribe_spritesheet_2x_108: -769057158741998512
+      character_tribe_spritesheet_2x_68: 3359336766011680735
+      character_tribe_spritesheet_2x_82: 8577636672780783638
+      character_tribe_spritesheet_2x_48: -557882782965999350
+      character_tribe_spritesheet_2x_51: 1563265194616566721
+      character_tribe_spritesheet_2x_53: -1381301007807379751
+      character_tribe_spritesheet_2x_18: -3043937727577538322
+      character_tribe_spritesheet_2x_116: 4481190418454298066
+      character_tribe_spritesheet_2x_117: -5932960352202319106
+      character_tribe_spritesheet_2x_121: -2005356655919623384
+      character_tribe_spritesheet_2x_79: 5250820749808494410
+      character_tribe_spritesheet_2x_114: -5450929474513727426
+      character_tribe_spritesheet_2x_31: -1201310810829418907
+      character_tribe_spritesheet_2x_73: 3453447516624470376
+      character_tribe_spritesheet_2x_20: -8878687771983442947
+      character_tribe_spritesheet_2x_36: 4217584174200482819
+      character_tribe_spritesheet_2x_47: 2438450604171658933
+      character_tribe_spritesheet_2x_21: -5835785463216771584
+      character_tribe_spritesheet_2x_16: 2311508982459281090
+      character_tribe_spritesheet_2x_123: 8783148238076060112
+      character_tribe_spritesheet_2x_64: -2299456878050751085
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
